@@ -79,7 +79,7 @@ Broken access control and object-level authorization are consistently top-ranked
 OWASP GenAI: relevant later as "excessive agency" and "sensitive information disclosure" when these flaws sit behind LLM tools (confirm current names on the live page). MITRE ATLAS: not the focus this week. NIST AI RMF: *Govern/Map* (asset and access inventory).
 
 ## 12. Limitations & residual risk
-Not covered: rate limiting/brute force, token revocation, CSRF/cookies, TLS config, secret rotation, SQLi/SSRF (Week 2), real IdP. Tests prove behavior of these routes only; they can miss routes you forget to protect. A new endpoint is unprotected unless it uses the dependency.
+Not covered: rate limiting/brute force, token revocation, CSRF/cookies, TLS config, secret rotation, real IdP. SQLi and SSRF are addressed in Week 2 (`00-foundations/web-api-vulnerabilities.md`). Tests prove behavior of these routes only; they can miss routes you forget to protect. A new endpoint is unprotected unless it uses the dependency.
 
 ## 13. Self-assessment
 1. Why can `X-Role: admin` not be trusted even over TLS?

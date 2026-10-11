@@ -10,6 +10,11 @@
 | [Web Security Academy: Getting started](https://portswigger.net/web-security/getting-started) | PortSwigger | Free interactive web-vuln labs | 1–2 | reachable |
 | [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) | OverTheWire | Linux CLI basics via wargame | 1 | reachable |
 | [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) | OWASP | Intentionally vulnerable web app (practice only on local instance) | 2 | reachable |
+| [Web Security Academy: SQL injection](https://portswigger.net/web-security/sql-injection) | PortSwigger | Free interactive SQLi labs | 2 | reachable |
+| [Web Security Academy: Cross-site scripting](https://portswigger.net/web-security/cross-site-scripting) | PortSwigger | Free interactive XSS labs | 2 | reachable |
+| [Web Security Academy: SSRF](https://portswigger.net/web-security/ssrf) | PortSwigger | Free interactive SSRF labs | 2 | reachable |
+| [Web Security Academy: File path traversal](https://portswigger.net/web-security/file-path-traversal) | PortSwigger | Free interactive path-traversal labs | 2 | reachable |
+| [Web Security Academy: Access control](https://portswigger.net/web-security/access-control) | PortSwigger | Free interactive BOLA/IDOR and broken access-control labs | 1–2 | reachable |
 | [OWASP GenAI LLM Top 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/) | OWASP GenAI Security Project | LLM risk taxonomy. Your roadmap says the site lists a 2026 release; **check the live page for current risk names before citing** | 3,5,6,10 | reachable |
 | [OWASP AI Exchange](https://owasp.org/projects/ai-exchange) | OWASP | AI security controls guidance | 5,10 | reachable |
 | [MITRE ATLAS](https://atlas.mitre.org/) | MITRE | Adversary tactics/techniques for AI | 3,9 | reachable |

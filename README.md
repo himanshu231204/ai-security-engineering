@@ -32,7 +32,7 @@ Never commit `.env`. Only `.env.example` is tracked.
 ## 12-week checklist
 
 - [ ] **W1** Cybersecurity & networking foundations. Lab 01 (auth + RBAC) ← *chapter and lab included*
-- [ ] **W2** Web/API vulnerabilities for AI products (BOLA, SQLi, SSRF…)
+- [ ] **W2** Web/API vulnerabilities for AI products (BOLA, SQLi, SSRF…) ← *chapter and lab extension included*
 - [ ] **W3** AI threat modeling & frameworks
 - [ ] **W4** LLM fundamentals & prompt injection. Lab 02
 - [ ] **W5** LLM app risks & defensive design
@@ -51,7 +51,7 @@ Never commit `.env`. Only `.env.example` is tracked.
 | `ROADMAP.md` | Weekly outcomes, hours, reading, video, lab, deliverable |
 | `resources/` | Source catalogue (docs, videos) with verification status |
 | `templates/` | topic-notes, lab-report, threat-model |
-| `00-foundations/` … `07-secure-deployment/` | Weekly chapters (only Week 1 written so far) |
+| `00-foundations/` … `07-secure-deployment/` | Weekly chapters (only Weeks 1–2 written so far) |
 | `labs/` | Runnable, isolated labs with tests |
 | `projects/ai-security-evaluator/` | Capstone |
 
@@ -61,7 +61,7 @@ asset → trust boundary → attacker capability → preconditions → reproduct
 
 ## Status honesty
 
-- Only Week 1 content exists. Later weeks are outlined in `ROADMAP.md`, not written.
+- Only Weeks 1–2 content exists. Later weeks are outlined in `ROADMAP.md`, not written.
 - `resources/` marks each link as *verified*, *carried from your roadmap (unverified)*, or *search link*. Do not treat unverified links as checked.
 - Test results in lab reports are recorded only when actually run.
 
