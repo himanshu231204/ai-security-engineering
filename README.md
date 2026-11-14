@@ -68,3 +68,12 @@ asset → trust boundary → attacker capability → preconditions → reproduct
 ## Portfolio outcomes
 
 Public repo, three lab reports, a threat model + diagram, a before/after evaluation report, and a README demo (threat, proof, fix, verification, limitations).
+
+<!-- gumroad-footer -->
+---
+
+### More free resources
+
+I share free visual notes, agent skills and guides on AI agents, Google ADK, RAG and LLMs.
+
+[![Gumroad](https://img.shields.io/badge/Gumroad-free_notes_%26_skills-ff90e8?style=flat-square&logo=gumroad&logoColor=white)](https://himanshu231204.gumroad.com) → **[himanshu231204.gumroad.com](https://himanshu231204.gumroad.com)**
